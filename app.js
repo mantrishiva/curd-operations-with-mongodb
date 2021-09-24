@@ -1,6 +1,5 @@
 const express = require("express");
 const mongoose = require("mongoose");
-const mongodb = require('mongodb');
 const url = "mongodb://localhost/employees";
 
 const app = express();
